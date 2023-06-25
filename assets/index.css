@@ -1,0 +1,90 @@
+@font-face {
+    font-family: Gilroy-medium;
+    src: url(./fonts/Gilroy-Medium.eot);
+}
+
+body {
+    font-family: 'Gilroy-Medium';
+    background-color: #FFFFFF;
+    width: 1500px;
+    height: fit-content;
+    position: relative;
+}
+
+.revolutionizing {
+    background-color: rgb(0, 29, 86);
+    padding: 24px;
+}
+
+.revolutionizing h2 {
+    color: white;
+}
+
+.get-started {
+    color: white;
+    border-radius: 16px;
+    
+}
+
+.revolution {
+    top: 109px;
+
+}
+
+.get-quote {
+    display: flex;
+    flex-wrap: wrap;
+    border: 4rem;
+}
+
+footer {
+    font-size: small;
+}
+
+.footer-bottom-right {
+    text-align: right;
+    font-size: small;
+}
+
+.price-perf {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.price-perfect {
+    color: rgb(22, 73, 212);
+}
+
+.form-div {
+    border: 1px solid;
+    background-color: white;
+    text-align: center;
+}
+
+.url-short, .scissor-choose, .possibilities {
+    color: rgb(22, 73, 212);
+}
+
+.seam-vec {
+    position: relative;
+    background-position: 2rem;
+}
+
+.signup {
+    display: flex;
+    border: 1px solid;
+    width: fit-content;
+    padding: 6px;
+    border-radius: 16px;
+    }
+
+.one-stop {
+    background-color: aliceblue;
+}
+
+.faq-section {
+    text-align: center;
+    font-size: 15px;
+    border-inline: 1px;
+}
